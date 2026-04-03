@@ -1,0 +1,10 @@
+com\casestudy\pages\PIMPage.class
+com\casestudy\runners\TestRunner.class
+com\casestudy\stepdefinitions\Hooks.class
+com\casestudy\stepdefinitions\MobileSteps.class
+com\casestudy\utils\MobileDriver.class
+com\casestudy\stepdefinitions\LoginSteps.class
+com\casestudy\utils\Driver.class
+com\casestudy\utils\ConfigReader.class
+com\casestudy\pages\LoginPage.class
+com\casestudy\stepdefinitions\PIMSteps.class
