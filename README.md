@@ -2,6 +2,8 @@
 
 Bu proje, Web (OrangeHRM) ve Mobil (Android ApiDemos) platformları için hazırlanmış, Page Object Model (POM) mimarisine sahip bir UI Otomasyon projesidir. Testler BDD yaklaşımıyla Cucumber kullanılarak yazılmış ve Allure ile raporlanmıştır.
 
+
+
 ## 🛠️ Kullanılan Teknolojiler
 * **Dil:** Java 11
 * **Proje Yönetimi:** Maven
@@ -20,6 +22,6 @@ Projeyi çalıştırmadan önce bilgisayarınızda aşağıdakilerin kurulu oldu
 
 Projeyi yerel bilgisayarınıza indirin:
 ```bash
-git clone <-github-repo->
+git clone <[-github-repo-](https://github.com/ByMurat-dev/OrangeHRMAutomaiton.git)>
 cd QaAutomationCaseStudy
 mvn clean install -DskipTests
